@@ -5,7 +5,7 @@
     <include android:id="@+id/acBar1"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        layout="@layout/createpost_actionbar"/>
+        layout="@layout/createpost_actionbar" />
     <ImageView
         android:id="@+id/proImg"
         android:layout_width="40dp"
